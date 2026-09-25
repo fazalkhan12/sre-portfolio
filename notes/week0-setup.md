@@ -143,12 +143,6 @@ sre-portfolio/
 git remote set-url --add --push origin git@gitlab.com:<you>/sre-portfolio.git
 ```
 
-## 5. Pending items
-
-- [ ] Linux Foundation ticket: CKS eligibility with expired CKA (needed by ~Week 21)
-- [ ] CV: show CKA as "expired [year]" rather than current
-- [ ] Optional: MFA on `fazal-admin`
-- [ ] Tracker: mark Week 0 Theory / Lab / Done-when = Y, log today's hours
 
 ## 6. Next session
 
